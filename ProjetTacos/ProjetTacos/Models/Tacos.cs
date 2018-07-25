@@ -10,5 +10,6 @@ namespace ProjetTacos.Models
         public int Id { get; set; }
         public string Viande { get; set; }
         public string Boisson { get; set; }
+
     }
 }
